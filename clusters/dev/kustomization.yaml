@@ -4,4 +4,3 @@ kind: Kustomization
 resources:
 - flux-system
 - dev-app.yaml
-- infrastructure.yaml
